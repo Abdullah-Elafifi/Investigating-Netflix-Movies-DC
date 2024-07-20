@@ -1,8 +1,6 @@
                            
 ![Image](https://miro.medium.com/v2/resize:fit:2000/0*ohoJM_4muwfaHIA9)
  
-# Investigating Netflix Movies DC
-
 
 # Investigating Netflix Movies Project DC
 
