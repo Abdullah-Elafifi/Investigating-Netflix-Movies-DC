@@ -1,5 +1,5 @@
                            
-<img src="https://miro.medium.com/v2/resize:fit:2000/0*ohoJM_4muwfaHIA9" width="500" height="500">
+<img src="https://miro.medium.com/v2/resize:fit:2000/0*ohoJM_4muwfaHIA9" width="600" height="466">
  
 
 # Investigating Netflix Movies Project DC
