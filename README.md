@@ -22,3 +22,8 @@ Explore Netflix movie data and perform exploratory data analysis for a productio
 This project is the first one in the career track of Associate Data Scientist in Python (DataCamp). Feel free to ask me about any part of the code or the dataset details via email: [aelafifi00@gmail.com](mailto:aelafifi00@gmail.com).
 
 ---
+
+## 🙏 Acknowledgments
+- DataCamp for the project inspiration.
+
+---
