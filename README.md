@@ -10,12 +10,13 @@ Explore Netflix movie data and perform exploratory data analysis for a productio
 
 ## 🛠️ Tech Stack
 
-- **Programming Language:** Python
-- **Notebooks:** Colab, Datalab
-- **Data Visualization:** matplotlib (Pyplot)
-- **Data Manipulation:** Pandas, Numpy
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Programming Language:** Python
+- ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&color=525252) ![Datalab](https://img.shields.io/badge/Datalab-4285F4?style=for-the-badge&logo=google&logoColor=white) **Notebooks:** Colab, Datalab
+- ![matplotlib](https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black) **Data Visualization:** matplotlib (Pyplot)
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) **Data Manipulation:** Pandas, Numpy
 
 ---
+
 
 ## 🙏 Acknowledgments
 - DataCamp for the project inspiration.
