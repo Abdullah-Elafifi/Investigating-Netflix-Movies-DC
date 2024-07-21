@@ -6,7 +6,12 @@
 
 Explore Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from a particular decade.
 
----
+<h2> I'm trying to answer these business questions: </h2>
+
+<ul>
+  <li>What was the most frequent movie duration in the 1990s?</li>
+  <li> Count the number of short action movies released in the 1990s (A movie is considered short if it is less than 90 minutes)</li>
+</ul>
 
 ## 🛠️ Tech Stack
 
